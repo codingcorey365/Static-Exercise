@@ -1,0 +1,14 @@
+C:\_Git\repos\TrueCoders\Module 8\Static-Exercise\StaticExercise\bin\Debug\net6.0\StaticExercise.exe
+C:\_Git\repos\TrueCoders\Module 8\Static-Exercise\StaticExercise\bin\Debug\net6.0\StaticExercise.deps.json
+C:\_Git\repos\TrueCoders\Module 8\Static-Exercise\StaticExercise\bin\Debug\net6.0\StaticExercise.runtimeconfig.json
+C:\_Git\repos\TrueCoders\Module 8\Static-Exercise\StaticExercise\bin\Debug\net6.0\StaticExercise.dll
+C:\_Git\repos\TrueCoders\Module 8\Static-Exercise\StaticExercise\bin\Debug\net6.0\StaticExercise.pdb
+C:\_Git\repos\TrueCoders\Module 8\Static-Exercise\StaticExercise\obj\Debug\net6.0\StaticExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Git\repos\TrueCoders\Module 8\Static-Exercise\StaticExercise\obj\Debug\net6.0\StaticExercise.AssemblyInfoInputs.cache
+C:\_Git\repos\TrueCoders\Module 8\Static-Exercise\StaticExercise\obj\Debug\net6.0\StaticExercise.AssemblyInfo.cs
+C:\_Git\repos\TrueCoders\Module 8\Static-Exercise\StaticExercise\obj\Debug\net6.0\StaticExercise.csproj.CoreCompileInputs.cache
+C:\_Git\repos\TrueCoders\Module 8\Static-Exercise\StaticExercise\obj\Debug\net6.0\StaticExercise.dll
+C:\_Git\repos\TrueCoders\Module 8\Static-Exercise\StaticExercise\obj\Debug\net6.0\refint\StaticExercise.dll
+C:\_Git\repos\TrueCoders\Module 8\Static-Exercise\StaticExercise\obj\Debug\net6.0\StaticExercise.pdb
+C:\_Git\repos\TrueCoders\Module 8\Static-Exercise\StaticExercise\obj\Debug\net6.0\StaticExercise.genruntimeconfig.cache
+C:\_Git\repos\TrueCoders\Module 8\Static-Exercise\StaticExercise\obj\Debug\net6.0\ref\StaticExercise.dll
